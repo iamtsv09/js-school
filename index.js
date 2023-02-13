@@ -3,4 +3,4 @@ function a(b) {
         console.log(i);
     }
 }
-a(20);
+a(5);
